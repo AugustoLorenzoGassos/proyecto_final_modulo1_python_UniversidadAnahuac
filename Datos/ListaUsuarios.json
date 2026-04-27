@@ -1,0 +1,22 @@
+{
+  "Usuarios": [
+    {
+      "Nombre": "Augusto",
+      "NombreCompleto": "Augusto Lorenzo Gassós",
+      "Contraseña": "1234",
+      "Status": "A"
+    },
+    {
+     "Nombre": "Juan",
+     "NombreCompleto": "Juan Manuel Lorenzo Gassós",
+      "Contraseña": "5678",
+      "Status": "A"
+    },
+    {
+      "Nombre": "Monica",
+      "NombreCompleto": "Mónica Lorenzo Gassós",
+      "Contraseña": "abcd",
+      "Status": "I"
+    }
+  ]
+}
